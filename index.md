@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- [new_blog](./new_blog.md)
 
 1. Numbered
 2. List
