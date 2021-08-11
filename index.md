@@ -17,7 +17,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-- [new_blog](./new_blog.md)
 
 1. Numbered
 2. List
@@ -26,6 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+[new_blog](./new_blog.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
